@@ -11,5 +11,5 @@
 RA: 419119135</p>
 <p>Rafael Lima dos Santos
 RA: 419104705</p>
-<p>José Orlando de Lima Júnior
-RA: 419102375</p>
+<p>Rafael Bernardino Riveira
+RA: 419120907</p>
